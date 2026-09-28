@@ -1,0 +1,4 @@
+year,revenue_bn_vnd,npat_bn_vnd,current_assets_bn_vnd,total_assets_bn_vnd,cash_bn_vnd,short_term_investments_bn_vnd,receivables_bn_vnd,inventory_bn_vnd,current_liabilities_bn_vnd,total_liabilities_bn_vnd,short_term_debt_bn_vnd,long_term_debt_bn_vnd,equity_bn_vnd,cfo_bn_vnd,interest_expense_bn_vnd
+2023,118280,168,51950.3,60108.0,5365.7,18937.0,5158.9,21824.2,30765.3,36751.7,19496.2,5985.3,23356.3,3440.0,1448.0
+2024,134341,3733,65836.4,70436.0,4897.3,29324.4,8825.9,22244.7,42316.2,42316.2,27300.2,0.0,28119.8,8520.0,1137.2
+2025,155928,7073,77201.7,83949.0,4999.9,33874.3,10182.8,27266.9,50769.5,50769.5,29930.9,0.0,33179.5,6100.0,1470.7
